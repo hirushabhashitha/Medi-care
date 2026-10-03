@@ -1,4 +1,4 @@
-# MediCore Hospital Management System
+# Medi-Care Hospital Management System
 
 MediCore is a full-stack hospital management system built for day-to-day clinical and administrative workflows. It provides a role-based dashboard for patient registration, appointments, consultations, electronic medical records, laboratory work, pharmacy inventory, inpatient admissions, billing, staff management, reports, and audit logs.
 This repository is the Next.js application for the MediCare project. It uses SQLite for zero-configuration local development and Prisma as the data-access layer.
